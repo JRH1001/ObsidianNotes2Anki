@@ -1,5 +1,5 @@
 # ObsidianNotes2Anki
-A Simple vibe coded python Skript that converts your structured Notes into an organized Anki-Deck with Subdecks. 
+A Simple vibe coded python script that converts your structured Notes into an organized Anki-Deck with Subdecks. 
 
 ![The GUI](GUI.png)
 
