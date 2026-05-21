@@ -22,6 +22,11 @@ To prevent that i searched for a way to convert my well strucutred Notes into an
 ## Note formatation:
 I alway format my notes the following:
 [Example](Example.md)
+### How it baisicly works:
+The Script scans your given Sources for Markdown files. For every File it creates a Sub-deck. Every new h3 or h4 heading will be a new card with its bullet points on the back. h3 blocks that includes h4 blocks will also be split up. The front page of the card contains the Subheading and also some higher Headings of higher hierachy. Thats practical if you wanna knwo which main topic belongs to the given card. 
+If you have PDF-Snippets or images Embedded, the script searches for the original files in your vault and embedd them into your Card. 
+The card also gets formated: Hyperlinks will be removed, it only displays the link as normal text. Bold text will stay the same. 
+
 ## Installation:
 ### 1.) Download the Repo
 
