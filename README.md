@@ -53,6 +53,6 @@ poppler-Binaries from https://github.com/oschwartz10612/poppler-windows/releases
 
 ### 3.) Run the GUI python script
 
-## Feel free to do with this whatever you want, I hope it helps you improve your study workflow and safe time (hopefully more than you invested in setting this up and get comfortable with)
+## Feel free to do with this whatever you want, I hope it helps improve your study workflow and safe time (hopefully more than you invested in setting this up and get comfortable with)
 
    
