@@ -4,11 +4,11 @@ A Simple vibe coded python Skript that converts your structured Notes into an or
 ![The GUI](GUI.png)
 
 ## Idea:
-During my studies I really lost control about the best tactics on how get all the lectures, lessons, information, facts, concept and all that things in my head. I ended up using Anki for Spaced Repitition and Active Recalling. Anki is PERFEKT for that. 
+During my studies I really lost control about the best tactics on how get all the lectures, lessons, information, facts, concept and all that things in my head. I ended up using Anki for Spaced Repetition and Active Recalling. Anki is PERFEKT for that. 
 ### BUT:
-I really hated it having all my cards unsorted in big decks, each information stored anywhere in this huge stack of knowledge, spawning randomly during my learning sessions without any logical structures. Also I hated learning from randomly given facts that apperars somewhere without real context and made me more confusing than actually understanding the subject.
+I really hated it having all my cards unsorted in big decks, each information stored anywhere in this huge stack of knowledge, spawning randomly during my learning sessions without any logical structure. I also hate learning from randomly given facts that apperars somewhere without real context and made me more confusing than actually understanding the subject.
 
-Thats why i switched to Obsidian to kinda sort my Notes, Summaries, PDFs and everything. But with one Disadvantage: I was to leazy to recall the once sorted notes and summaries. Instead i continued with new topics and prograstinated way tooooo much
+Thats why i switched to Obsidian to kinda sort my Notes, Summaries, PDFs and everything. But with one Disadvantage: I was to lazy to recall the once sorted notes and summaries. Instead I continued with new topics and prograstinated way tooooo much.
 
 To prevent that i searched for a way to convert my well strucutred Notes into an Anki Deck. Even though there are plenty of AWESOME Plugins, i hated the idea of formating my Notes in a Flashcard Style because my OCD always forces me to keep that clean HANDOUT-LIKE-STYLE and visible flow in my notes. 
 
@@ -52,5 +52,7 @@ sudo apt install poppler-utils
 poppler-Binaries from https://github.com/oschwartz10612/poppler-windows/releases
 
 ### 3.) Run the GUI python script
+
+## Feel free to do with this whatever you want, I hope it helps you improve your study workflow and safe time (hopefully more than you invested in setting this up and get comfortable with)
 
    
