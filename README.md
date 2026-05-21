@@ -21,7 +21,7 @@ To prevent that i searched for a way to convert my well strucutred Notes into an
 
 ## Note formatation:
 I alway format my notes the following:
-![[]]
+[Example](Example.md)
 ## Installation:
 ### 1.) Download the Repo
 
@@ -40,5 +40,7 @@ sudo apt install poppler-utils
 
 ##### Windows: 
 poppler-Binaries from https://github.com/oschwartz10612/poppler-windows/releases
+
+### 3.) Run the GUI python script
 
    
