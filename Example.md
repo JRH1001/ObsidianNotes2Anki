@@ -1,4 +1,4 @@
-
+#Some_tags_but_dw_they_wont_be_in_the_cards #another_tag
 - some basic points about the topic
 - will be one card with the Title as front-side
 - but not necessarry
